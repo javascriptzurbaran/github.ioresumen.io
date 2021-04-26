@@ -11,12 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "About"
-      section: about
-    - title: "Evaluation"
-      section: evaluation
-    - title: "Timeline"
-      section: timeline
+    - title: "Sobre mí"
+      section: sobre mi
+    - title: "Evaluaciones"
+      section: evaluaciones
+    - title: "Cronología"
+      section: cronología
       
 en-US:
   <<: *DEFAULT_EN
