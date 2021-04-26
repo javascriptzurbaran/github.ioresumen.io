@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title:
+    text: Resumen del curso
+    button: Sobre mí
+    buttonlink: 
 
   services:
     title: "Services"
@@ -32,9 +32,9 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Evaluation"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: Evaluation
     closebutton: "Close Project"
 
   timeline:
@@ -44,29 +44,22 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "1ª Evaluación"
+        year: "Septiembre-Diciembre"
+        desc: "Plataforma online, Seguridad en la red y Configurar tu propio PC"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "2ª Evaluación"
+        year: "Diciembre-Marzo"
+        desc: "Programación"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "3ª Evaluación"
+        year: "Marzo-Mayo "
+        desc: "Creación de nuestra propia web"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Fianl del curso"
 
   about:
     title: "About Us"
