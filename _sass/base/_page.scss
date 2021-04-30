@@ -1,4 +1,7 @@
 // Global styling for this template
+.container {  
+  background: #aaa;
+}
 body {
   overflow-x: hidden;
   @include body-font;
