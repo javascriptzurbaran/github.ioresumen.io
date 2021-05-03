@@ -83,18 +83,17 @@ es: &DEFAULT_ES
     buttonlink: "#servicios"
 
   services:
-    title: "Servicios"
-    text: "Lorem ipsum"
-    section: servicios
+   title: "Sobre mí"
+    section: sobre mi
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Nombre"
+        desc: "Miguel Martín."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Instituto"
+        desc: " I.E.S. Zurbarán."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+      - title: "Curso"
+        desc: "2ºBachillerato"
         icon: fab fa-markdown
 
   portfolio:
