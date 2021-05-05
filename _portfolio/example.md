@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Example
   subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: https://curso-prevencion-riesgos.com/wp-content/uploads/2019/04/1%C2%BA.png
   
 #what displays when the item is clicked:
 title: Title
